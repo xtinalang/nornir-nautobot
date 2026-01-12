@@ -310,3 +310,13 @@ public
 /compose.yaml
 /dump.sql
 /nornir-nautobot/static/*
+
+# Local documentation and guides (should not be pushed to upstream)
+Documents/
+HOW_TO_CONTRIBUTE_TO_NORNIR_NAUTOBOT.md
+BRANCHING_STRATEGY.md
+CI_PIPELINE_SETUP.md
+SETUP_GUIDE.md
+*.guide.md
+*.strategy.md
+*.setup.md
